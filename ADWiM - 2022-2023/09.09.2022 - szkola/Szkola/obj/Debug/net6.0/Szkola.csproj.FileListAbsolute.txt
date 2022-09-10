@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\bin\Debug\net6.0\Szkola.exe
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\bin\Debug\net6.0\Szkola.deps.json
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\bin\Debug\net6.0\Szkola.runtimeconfig.json
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\bin\Debug\net6.0\Szkola.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\bin\Debug\net6.0\ref\Szkola.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\bin\Debug\net6.0\Szkola.pdb
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.AssemblyInfo.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\ref\Szkola.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.pdb
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola\obj\Debug\net6.0\Szkola.genruntimeconfig.cache
