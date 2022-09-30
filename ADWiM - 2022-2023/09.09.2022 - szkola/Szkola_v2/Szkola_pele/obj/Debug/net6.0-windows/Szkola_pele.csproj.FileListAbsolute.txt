@@ -1,0 +1,54 @@
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.exe
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.deps.json
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.runtimeconfig.json
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.dll
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.pdb
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.csproj.AssemblyReference.cache
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele_MarkupCompile.cache
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele_MarkupCompile.lref
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.g.resources
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.AssemblyInfoInputs.cache
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.AssemblyInfo.cs
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.dll
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\refint\Szkola_pele.dll
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.pdb
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.genruntimeconfig.cache
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\ref\Szkola_pele.dll
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\DodajKlaseWindow.g.cs
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\DodajSzkoleWindow.g.cs
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\DodajUczniaWindow.g.cs
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\DodajKlaseWindow.baml
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\DodajSzkoleWindow.baml
+C:\Users\Uczen\Documents\Pele\Szkola_pele\Szkola_pele\Szkola_pele\obj\Debug\net6.0-windows\DodajUczniaWindow.baml
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.exe
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.deps.json
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.runtimeconfig.json
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\bin\Debug\net6.0-windows\ref\Szkola_pele.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\bin\Debug\net6.0-windows\Szkola_pele.pdb
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\DodajKlaseWindow.g.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\DodajSzkoleWindow.g.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\DodajUczniaWindow.g.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele_MarkupCompile.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele_MarkupCompile.lref
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\DodajKlaseWindow.baml
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\DodajSzkoleWindow.baml
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\DodajUczniaWindow.baml
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.g.resources
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.AssemblyInfo.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\ref\Szkola_pele.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.pdb
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\09.09.2022 - szkola\Szkola_v2\Szkola_pele\obj\Debug\net6.0-windows\Szkola_pele.genruntimeconfig.cache

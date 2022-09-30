@@ -1,0 +1,38 @@
+﻿<Window x:Class="Szkola_pele.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Szkola_pele"
+        mc:Ignorable="d"
+        Title="Dziennik elektroniczny" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="5*" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Grid.Row="0" Grid.ColumnSpan="4">
+            <MenuItem Header="Szkoła">
+                <MenuItem Header="Dodaj szkołę" Click="dodajSzkole"/>
+            </MenuItem>
+            <MenuItem Header="Klasa" >
+                <MenuItem Header="Dodaj klasę" Click="dodajKlase" />
+            </MenuItem>
+            <MenuItem Header="Uczniowie">
+                <MenuItem Header="Dodaj ucznia" Click="dodajUcznia" />
+            </MenuItem>
+        </Menu>
+        <ListBox Name="szkola_ui" Grid.Row="1" SelectionChanged="szkola_SelectionChanged" />
+        <ListBox Name="klasa_ui" Grid.Row="1" Grid.Column="1" SelectionChanged="klasa_SelectionChanged" />
+        <ListBox Name="uczen_ui" Grid.Row="1" Grid.Column="2" SelectionChanged="uczen_SelectionChanged" />
+        <TextBlock Name="opis_ui" Grid.Row="1" Grid.Column="3" Margin="10px 0 0 0" />
+        
+    </Grid>
+</Window>

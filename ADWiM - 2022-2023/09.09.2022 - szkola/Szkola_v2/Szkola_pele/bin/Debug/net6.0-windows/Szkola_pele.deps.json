@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Szkola_pele/1.0.0": {
+        "runtime": {
+          "Szkola_pele.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Szkola_pele/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
