@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\bin\Debug\net6.0\Serialization.exe
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\bin\Debug\net6.0\Serialization.deps.json
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\bin\Debug\net6.0\Serialization.runtimeconfig.json
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\bin\Debug\net6.0\Serialization.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\bin\Debug\net6.0\Serialization.pdb
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfo.cs
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\refint\Serialization.dll
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.pdb
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.genruntimeconfig.cache
+C:\Users\User\Desktop\Projekty\Technikum\ADWiM - 2022-2023\Serialization\Serialization\Serialization\obj\Debug\net6.0\ref\Serialization.dll
